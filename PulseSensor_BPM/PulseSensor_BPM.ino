@@ -3,11 +3,11 @@
  *	TRABALHO 2 DE ELETRÔNICA	
  *
  *	AUTORES:
- *		Caio
+ *		Caio Marcos Chaves Viana
  *		Lucas Carvalho Machado
  * 		Lucas Yuiti Oda Yamamoto
  *		Gabriel de Oliveira Guedes Nogueira
- *		Victor
+ *		Victor Gomes de Carvalho
  *		
  */
 
